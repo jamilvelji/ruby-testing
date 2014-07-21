@@ -1,5 +1,5 @@
 def add(a, b)
-  added = a + b
+  a + b
 end
 
 print "Please enter the first number you would like to add:\n"
